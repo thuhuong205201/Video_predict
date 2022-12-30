@@ -10,4 +10,5 @@ Prerequisites:
 Pytorch 1.0
 
 Our output examples:
-![image](![Screenshot 2022-12-30 113736](https://user-images.githubusercontent.com/74065603/210035065-4ad5661d-ebbf-4d11-b251-e87ad55ad741.png)
+![Screenshot 2022-12-30 113736](https://user-images.githubusercontent.com/74065603/210035092-558e0488-5714-4e85-ac6e-c2cf51e52d04.png)
+
