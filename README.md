@@ -1,9 +1,12 @@
-## Paper: Efficient and Information-Preserving Future Frame Prediction and Beyond
+
 
 Members:
 Nguyen Nhu Quynh
+
 Bui Thi Thu Huong
+
 Truong Thi Thu Thao
+
 Nguyen Thi Thao Nguyen
 
 TO run the model:
